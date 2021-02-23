@@ -1,0 +1,3 @@
+Firstly we run the Client then the Server who sends the picture(testfile.jpg). if the picture is too big the server splits it into smaller fragments and sends them to the client who responds
+with ack or nak messages in order to make sure all the packets arrive in the correct order. The client saves the picture in the output.jpg file.
+

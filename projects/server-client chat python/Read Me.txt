@@ -1,0 +1,2 @@
+Run both the server and the client.Login server(username: server password:123456) client(username: client password:123456).Write the message to the box and send it by pressing the
+Send button.
